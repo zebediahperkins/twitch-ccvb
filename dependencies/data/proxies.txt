@@ -1,0 +1,3 @@
+socks5proxy:port
+anothers5proxy:port
+etc...
